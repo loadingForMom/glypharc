@@ -1,0 +1,14 @@
+.DS_Store
+build/
+DerivedData/
+*.xcuserstate
+*.xcuserdata/
+*.moved-aside
+*.xccheckout
+*.xcscmblueprint
+.build/
+.swiftpm/
+*.xcarchive
+.env
+*.env
+Secrets.plist
