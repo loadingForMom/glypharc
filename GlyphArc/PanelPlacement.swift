@@ -1,6 +1,6 @@
 //
 //  PanelPlacement.swift
-//  GlyphArc v4
+//  GlyphArc
 //
 
 import AppKit

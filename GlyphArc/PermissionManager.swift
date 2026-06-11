@@ -1,6 +1,6 @@
 //
 //  PermissionManager.swift
-//  GlyphArc v4
+//  GlyphArc
 //
 //  Created by Sasha on 12/19/25.
 //

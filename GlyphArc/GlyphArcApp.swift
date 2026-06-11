@@ -1,6 +1,6 @@
 //
 //  GlyphArcApp.swift
-//  GlyphArc v4
+//  GlyphArc
 //
 
 import SwiftUI

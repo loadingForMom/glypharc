@@ -1,6 +1,6 @@
 //
 //  DisplayLinkDriver.swift
-//  GlyphArc v4
+//  GlyphArc
 //
 
 import AppKit
