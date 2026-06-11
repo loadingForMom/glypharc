@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		8457CD932EF49C040049A415 /* GlyphArc v4.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "GlyphArc v4.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8457CD932EF49C040049A415 /* GlyphArc.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "GlyphArc.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		8457CD952EF49C040049A415 /* GlyphArc v4 */ = {
+		8457CD952EF49C040049A415 /* GlyphArc */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "GlyphArc v4";
+			path = "GlyphArc";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		8457CD8A2EF49C040049A415 = {
 			isa = PBXGroup;
 			children = (
-				8457CD952EF49C040049A415 /* GlyphArc v4 */,
+				8457CD952EF49C040049A415 /* GlyphArc */,
 				8457CD942EF49C040049A415 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -40,7 +40,7 @@
 		8457CD942EF49C040049A415 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				8457CD932EF49C040049A415 /* GlyphArc v4.app */,
+				8457CD932EF49C040049A415 /* GlyphArc.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		8457CD922EF49C040049A415 /* GlyphArc v4 */ = {
+		8457CD922EF49C040049A415 /* GlyphArc */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8457CD9E2EF49C060049A415 /* Build configuration list for PBXNativeTarget "GlyphArc v4" */;
+			buildConfigurationList = 8457CD9E2EF49C060049A415 /* Build configuration list for PBXNativeTarget "GlyphArc" */;
 			buildPhases = (
 				8457CD8F2EF49C040049A415 /* Sources */,
 				8457CD902EF49C040049A415 /* Frameworks */,
@@ -62,13 +62,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				8457CD952EF49C040049A415 /* GlyphArc v4 */,
+				8457CD952EF49C040049A415 /* GlyphArc */,
 			);
-			name = "GlyphArc v4";
+			name = "GlyphArc";
 			packageProductDependencies = (
 			);
-			productName = "GlyphArc v4";
-			productReference = 8457CD932EF49C040049A415 /* GlyphArc v4.app */;
+			productName = "GlyphArc";
+			productReference = 8457CD932EF49C040049A415 /* GlyphArc.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -87,7 +87,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 8457CD8E2EF49C040049A415 /* Build configuration list for PBXProject "GlyphArc v4" */;
+			buildConfigurationList = 8457CD8E2EF49C040049A415 /* Build configuration list for PBXProject "GlyphArc" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -101,7 +101,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				8457CD922EF49C040049A415 /* GlyphArc v4 */,
+				8457CD922EF49C040049A415 /* GlyphArc */,
 			);
 		};
 /* End PBXProject section */
@@ -369,7 +369,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		8457CD8E2EF49C040049A415 /* Build configuration list for PBXProject "GlyphArc v4" */ = {
+		8457CD8E2EF49C040049A415 /* Build configuration list for PBXProject "GlyphArc" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8457CD9C2EF49C060049A415 /* Debug */,
@@ -378,7 +378,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8457CD9E2EF49C060049A415 /* Build configuration list for PBXNativeTarget "GlyphArc v4" */ = {
+		8457CD9E2EF49C060049A415 /* Build configuration list for PBXNativeTarget "GlyphArc" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8457CD9F2EF49C060049A415 /* Debug */,

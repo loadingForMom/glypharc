@@ -1,6 +1,6 @@
 //
 //  HoverMorphMenuView.swift
-//  GlyphArc v4
+//  GlyphArc
 //
 
 import AppKit
